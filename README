@@ -1,0 +1,5 @@
+# Cascade classifier is used to train model and create the gun.xml file using opencv
+
+# Cascade classifier needs more data of both positive and negative images with annotation, 'opencv_traincascade' used to train classifier 
+
+# Need to provide server details, model can send the mail if it detects the guns (no of guns can be adjusted manually). USer will receieve the mail. 
